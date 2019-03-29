@@ -37,7 +37,7 @@ public class employee
         	
        {
            day net = new day();
-           net.wee();
+           net.da();
        }
       
 }

@@ -6,7 +6,7 @@ public class day extends employee
 
   { 
      double bonus;
-     void wee()
+     void da()
    {
        Scanner input = new Scanner(System.in);
        System.out.println("Enter worked days");

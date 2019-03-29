@@ -4,7 +4,7 @@ import static java.time.Clock.system;
 
 public class month extends employee
 {
-    void monthly ()
+    void monthly()
     {
         Scanner input = new Scanner(System.in);
         System.out.println("enter the salary");
